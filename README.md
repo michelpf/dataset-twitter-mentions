@@ -1,4 +1,4 @@
-# Twitter Mentiones
+# Twitter Mentions
 
 This dataset was originally downloaded from [Kaggle](https://www.kaggle.com/datasets/julienjta/twitter-mentions-volumes).
 
